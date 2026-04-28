@@ -10,18 +10,17 @@ function About() {
           <div className={styles.mision}>
             <h2>Nuestra misión</h2>
             <p>
-              Somos una empresa con experiencia que ofrece soluciones en aire comprimido basadas en la calidad y confiabilidad, garantizando la satisfacción de nuestros clientes.
+              Construir una plataforma para que los empresarios o confeccionistas puedan tener la facilidad de comprar tela para confección via internet de manera rápida y sencilla.
             </p>
           </div>
           <div className='vision'>
             <h2>Nuestra visión</h2>
             <p>
-              Consolidarnos como empresa líder en soluciones en aire comprimido proporcionando la tecnología más avanzada al alcance de nuestros clientes, esto es pensar en
-              YUNFER.
+              Ser la plataforma número uno para compra de telas por mayoreo en México.
             </p>
           </div>
           <div className='valores'>
-            <h2>Valores en Grupo YUNFER</h2>
+            <h2>Valores en Grupo ARLETEX</h2>
             <ul>
               <li>Excelencia</li>
               <li>Honestidad</li>

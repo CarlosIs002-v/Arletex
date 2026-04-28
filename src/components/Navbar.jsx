@@ -23,7 +23,7 @@ const Navbar = () => {
                     </li>
                     <li>
                         <NavLink to="/yunfer-points">
-                            Yunfer Points
+                            ARLETEX Points
                         </NavLink>
                     </li>
                     <li>
@@ -33,7 +33,7 @@ const Navbar = () => {
                     </li>
                     <li>
                         <NavLink to="/cuadro-yunfer">
-                            Cuadro Yunfer
+                            Cuadro ARLETEX
                         </NavLink>
                     </li>
                     <li>

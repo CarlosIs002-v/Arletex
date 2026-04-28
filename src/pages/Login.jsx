@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import logo from "../assets/logo.svg";
+import logo from "../assets/Logo.jpg";
 import styles from "../styles/Login.module.css";
 
 function Login() {
@@ -23,7 +23,7 @@ function Login() {
         </form>
       </div>
       <footer className={styles.footer}>
-        <p>Grupo YUNFER hace de su conocimiento que al iniciar sesión, acepta los <span>Términos de servicio</span> y las <span>Políticas de Privacidad</span></p>
+        <p>Grupo Arletex hace de su conocimiento que al iniciar sesión, acepta los <span>Términos de servicio</span> y las <span>Políticas de Privacidad</span></p>
       </footer>
     </div>
   );

@@ -9,11 +9,11 @@ function ChatBot() {
         <h1>¡Bienvenido, Usuario!</h1>
         <h2>¿En qué puedo ayudarte?</h2>
         <div className={styles.options}>
-          <div className={styles.option}>¿Cómo dar un buen servicio?</div>
-          <div className={styles.option}>¿Cómo debo presentarme?</div>
-          <div className={styles.option}>¿Qué son los Yunfer Points?</div>
-          <div className={styles.option}>¿Cómo entro al cuadro de honor?</div>
-          <div className={styles.option}>Lineamientos de la empresa</div>
+          <div className={styles.option}>¿Cómo registrar una devolución?</div>
+          <div className={styles.option}>¿Cómo validar a un proveedor?</div>
+          <div className={styles.option}>Lista de proveedores validados</div>
+          <div className={styles.option}>¿Qué tipo de telas están disponibles para la compra del día de hoy?</div>
+          <div className={styles.option}>Rutas y tipos de entregas disponibles</div>
         </div>
         <div className={styles.searchContainer}>
           <input type="text" placeholder="Pregúntale al chatBot..." />
