@@ -1,7 +1,7 @@
 import { faRightFromBracket } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 import user from '../assets/user.png';
 import '../styles/Navbar.css';
 
